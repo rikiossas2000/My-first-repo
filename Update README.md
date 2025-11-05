@@ -1,2 +1,2 @@
 # My-first-repo
-hallo
+hallo Welcome, this is a complete tutorial for base learners.
